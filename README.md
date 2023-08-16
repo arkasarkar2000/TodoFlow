@@ -22,5 +22,5 @@ This is a full-stack web application built using the MERN (MongoDB, Express, Rea
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-todo-app.git
+   git clone https://github.com/arkasarkar2000/TodoFlow
    cd your-todo-app
