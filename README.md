@@ -1,7 +1,5 @@
 # MERN Stack Todo App with Login and Signup
 
-![MERN Logo](mern-logo.png)
-
 This is a full-stack web application built using the MERN (MongoDB, Express, React, Node.js) stack. The app allows users to manage their todo tasks. It features a user authentication system with signup and login functionality using bcrypt for password hashing. Once logged in, users can perform CRUD operations on their todos.
 
 ## Features
